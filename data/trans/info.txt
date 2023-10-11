@@ -1,0 +1,56 @@
+#- utm 34 south
+
+1.
+# Perspective Center (meter) of DJI_0125
+XL = 265541.413100000005215		
+YL = 6240024.606700000353158
+ZL = 140.459900000000005
+
+# omega phi kappa (in degree) of DJI_0125
+omega = math.radians(-10.190)
+phi = math.radians(-0.002)
+kappa = math.radians(-173.958)
+
+# Ground coordinates of GCP 9
+X = 265516.276 
+Y = 6239996.187
+Z = 87.62
+
+
+2.
+# Perspective Center (meter) of DJI_0140
+XL = 265525.279600000008941
+YL = 6240070.800400000065565
+ZL = 140.663900000000012
+
+# omega phi kappa (in degree) of DJI_0140
+omega = math.radians(10.493237253850904)
+phi = math.radians(0.520385161240788)
+kappa = math.radians(2.018914412220856)
+
+# Ground coordinates of GCP 6
+X = 265516.414
+Y = 6240075.765
+Z = 85.02
+
+
+3.
+# Perspective Center (meter) of DJI_0160
+XL = 265482.023600000014994
+YL = 6239982.113099999725819
+ZL = 140.268300000000011
+
+# omega phi kappa (in degree) of DJI_0160
+omega = math.radians(-1.506380134794459)
+phi = math.radians(9.846758098028280)
+kappa = math.radians(93.393076017106907)
+
+# Ground coordinates of GCP 15
+X = 265485.427	265474.730
+Y = 6239962.111	6239986.823
+Z = 97.96
+
+#- and GCP 10 on the same image
+X = 265474.730
+Y = 6239986.823
+Z = 94.06
