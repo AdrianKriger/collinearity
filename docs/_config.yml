@@ -18,7 +18,7 @@ remote_theme: pmarsceill/just-the-docs
 # in the templates via {{ site.myvariable }}.
 title: Trend Surface Analysis with R
 description: The identification and modelling the underlying pattern in spatial data and interpolation techniques.
-baseurl: "/r-trend-surfaces" # the subpath of your site, e.g. /blog
+baseurl: "/collinearity" # the subpath of your site, e.g. /blog
 url: "https://adriankriger.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -68,7 +68,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Trend Surface Analysis with R on GitHub":
-    - "//github.com/AdrianKriger/r-trend-surfaces"
+    - "//github.com/AdrianKriger/collinearity"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -84,7 +84,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2023 A.R. Kriger. Distributed by an <a href=\"https://github.com/AdrianKriger/r-trend-surfaces/blob/main/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2023 A.R. Kriger. Distributed by an <a href=\"https://github.com/AdrianKriger/collinearity/blob/main/LICENSE.txt\">MIT license.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -94,7 +94,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "See something wrong or unclear? Help make these docs better. Edit this page on GitHub"
-gh_edit_repository: "https://github.com/AdrianKriger/r-trend-surfaces" # the github URL for your repo
+gh_edit_repository: "https://github.com/AdrianKriger/collinearity" # the github URL for your repo
 #gh_edit_branch: "master" # the branch that your docs is served from
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_source: docs # the source that your files originate from
