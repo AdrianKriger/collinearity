@@ -12,7 +12,7 @@ A set of exercises that explores the **Collinearity condition**; two fundamental
 
  <figure><center>
 <!-- <iframe src="{{site.baseurl | prepend: site.url}}/img/stereo.html" scrolling="no" style="width: 100%; padding: 0px; height: 150%; margin: 0; border: none; overflow: hidden;"></iframe> -->
-<iframe src="{{site.baseurl | prepend: site.url}}/img/stereo.html" style="width: 100%; height: 110%;"></iframe>
+<iframe src="{{site.baseurl | prepend: site.url}}/img/stereo.html" style="width: 1080px; height: 1080px; padding: 0px; margin: 0; border: none; overflow: hidden;"></iframe>
   <figcaption>Fig.1 - Downsampled 3D point-cloud harvested via stereo-vision </figcaption>
 </center></figure> 
 
