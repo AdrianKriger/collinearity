@@ -11,7 +11,7 @@ description: "Collinearity"
 A set of exercises that explores the **Collinearity condition**; two fundamental equations, used in photogrammetry, to relate coordinates in a 2D sensor plane to 3D object coordinates.
 
  <figure><center>
-  <iframe src="{{site.baseurl | prepend: site.url}}/img/stereo.html" scrolling="no" style="width: 100%; padding: 0px; height: 100%; margin: 0; border: none; overflow: hidden;"></iframe>
+  <iframe src="{{site.baseurl | prepend: site.url}}/img/stereo.html" scrolling="no" style="width: 100%; padding: 0px; height: 150%; margin: 0; border: none; overflow: hidden;"></iframe>
 <!--<iframe src="{{site.baseurl | prepend: site.url}}/img/stereo.html" scrolling="no" style="width: 800px; height: 900px; padding: 0px; margin: 0; border: none; overflow: hidden;"></iframe>-->
   <figcaption>Fig.1 - Downsampled 3D point-cloud harvested via stereo-vision </figcaption>
 </center></figure> 
