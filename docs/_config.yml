@@ -16,7 +16,7 @@ remote_theme: pmarsceill/just-the-docs
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Trend Surface Analysis with R
+title: Collinearity
 description: The identification and modelling the underlying pattern in spatial data and interpolation techniques.
 baseurl: "/collinearity" # the subpath of your site, e.g. /blog
 url: "https://adriankriger.github.io" # the base hostname & protocol for your site, e.g. http://example.com
