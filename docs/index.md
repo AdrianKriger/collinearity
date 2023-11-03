@@ -10,7 +10,7 @@ description: "Collinearity"
 
 A set of exercises that explores the **Collinearity condition**; two fundamental equations, used in photogrammetry, to relate coordinates in a 2D sensor plane to 3D object coordinates.
 
-<iframe src="{{site.baseurl | prepend: site.url}}/img/plotly.html" style="width: 800px; height: 400px; border: 0px"></iframe>
+<iframe src="{{site.baseurl | prepend: site.url}}/img/akaze_sfm.html" style="width: 800px; height: 400px; border: 0px"></iframe>
 
 The exercise traverses its use from single photo resection to space intersection and aims to highlight the foundational  aspect of the concept (and its application in 3D scene reconstruction). 
 
