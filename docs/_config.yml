@@ -67,7 +67,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Trend Surface Analysis with R on GitHub":
+  "Collinearity on GitHub":
     - "//github.com/AdrianKriger/collinearity"
 
 # Makes Aux links open in a new tab. Default is false
